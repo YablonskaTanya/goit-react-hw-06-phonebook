@@ -1,0 +1,13 @@
+.contactsTitle,
+.phohebookTitle {
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  text-shadow: 1px 1px 15px rgb(77, 77, 77);
+}
+
+.contactsTitle {
+  margin-top: 30px;
+}
